@@ -16,10 +16,7 @@
 </div>
 
 
-<div align="center"> 
-<a href = "mailto:cmp.1a.josimoller@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/josianedecarvalho/](https://www.linkedin.com/in/josiane-de-carvalho-4b4338291)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
